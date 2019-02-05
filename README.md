@@ -1,10 +1,10 @@
 # Express GraphQL React application
 ## Initialisation
-`npm install`
-`npm run dev`
+`npm install`  
+`npm run dev`  
 
-React client: localhost:8001/
-GraphQL API: localhost:8001/graphql
+React client: localhost:8001/  
+GraphQL API: localhost:8001/graphql  
 
 ## GraphQL API
 Example request:  
